@@ -1,6 +1,6 @@
-## About
+# Mongo Express
 
-This repository is forked from ONLYOFFICE/Docker-CommunityServer, we have the following modifications are provided
+有两个问题：
 
-* replace README.md
-* add README-zh.md, CHANGELOG.md, Note.md, License.md, docker-compose.yml,.env, src, .github folder
+1. 无登录界面
+2. 不能独立运行，需配套 mongo 服务
